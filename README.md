@@ -32,49 +32,12 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carbonara6101&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 </div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carbonara6101&theme=react&hide_border=true&background=0D1117)
-
-</div>
-
-## 🌟 Current Projects
-
-- 🎯 React 기초 프로젝트들
-- 📝 개인 포트폴리오 사이트 제작 중
-- 💡 JavaScript 알고리즘 문제 풀이
-
-## 📚 Learning Resources
-
-- **React 공식 문서** - 기본기 다지기
-- **모던 JavaScript 튜토리얼** - JS 심화 학습
-- **프로그래머스** - 알고리즘 연습
-- **YouTube 강의** - 실전 프로젝트
-
-## 💭 Today I Learned
-
-> "매일 조금씩, 꾸준히 성장하는 개발자가 되겠습니다!"
-
----
-
-<div align="center">
   
 ### 🍝 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/carbonara6101)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jungho9966@gmail.com)
 
-**"오늘도 한 줄의 코드로 성장합니다! 🚀"**
 
-</div>
-
----
-
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/carbonara6101/count.svg)
 
 </div>
