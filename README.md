@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-<div align="center">
+
 - 🌱 I'm currently studying React hard
 - 💪 I try to grow a little bit every day
 - 🔥 I'm full of passion for front-end development
 - 📚 I love learning new technologies
 - ⚡ Consistency is my strong point!
-
+<div align="center">
 ## 🛠️ Currently Learning
 
 ### Frontend
@@ -36,10 +36,8 @@
   
 ### 🍝 Let's Connect!
 
-<div align="center">
+
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/carbonara6101)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jungho9966@gmail.com)
 
 
-
-</div>
