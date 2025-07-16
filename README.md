@@ -4,11 +4,12 @@
 
 ## 🚀 About Me
 
-- 🌱 현재 **React**를 열심히 공부하고 있습니다
-- 💪 매일 조금씩이라도 성장하려고 노력합니다
-- 🔥 프론트엔드 개발에 대한 열정이 가득합니다
-- 📚 새로운 기술을 배우는 것을 좋아합니다
-- ⚡ 꾸준함이 제 장점입니다!
+
+- 🌱 I'm currently studying React hard
+- 💪 I try to grow a little bit every day
+- 🔥 I'm full of passion for front-end development
+- 📚 I love learning new technologies
+- ⚡ Consistency is my strong point!
 
 ## 🛠️ Currently Learning
 
