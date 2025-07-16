@@ -22,21 +22,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📈 Learning Journey
-
-\`\`\`javascript
-const carbonara = {
-  currentFocus: "React",
-  goals: [
-    "React 마스터하기",
-    "포트폴리오 프로젝트 완성하기",
-    "오픈소스 기여하기",
-    "개발자로 취업하기"
-  ],
-  dailyRoutine: "코딩 공부 + 커밋",
-  motto: "꾸준함이 답이다! 🔥"
-};
-\`\`\`
 
 ## 📊 GitHub Stats
 
