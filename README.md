@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-
+<div align="center">
 - 🌱 I'm currently studying React hard
 - 💪 I try to grow a little bit every day
 - 🔥 I'm full of passion for front-end development
@@ -25,7 +25,7 @@
 
 
 ## 📊 GitHub Stats
-
+</div>
 <div align="center">
   
 ![carbonara6101's GitHub stats](https://github-readme-stats.vercel.app/api?username=carbonara6101&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
@@ -36,6 +36,7 @@
   
 ### 🍝 Let's Connect!
 
+<div align="center">
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/carbonara6101)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jungho9966@gmail.com)
 
